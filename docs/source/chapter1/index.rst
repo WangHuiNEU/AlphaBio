@@ -1,4 +1,4 @@
-第一章 基本概念
+Chapter 1: Protein LM 
 ===============
 
 .. toctree::
