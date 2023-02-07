@@ -7,3 +7,4 @@ A Roadmap for BioAI
 
    preface
    chapter1/index
+   chapter2/index
